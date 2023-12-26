@@ -5,12 +5,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDPRVX37_oCnQJ17fj5Azt7-1WuNjtqGas",
-  authDomain: "rpl-fisherman.firebaseapp.com",
-  projectId: "rpl-fisherman",
-  storageBucket: "rpl-fisherman.appspot.com",
-  messagingSenderId: "501491809171",
-  appId: "1:501491809171:web:2a8cb589696b8d8e570666"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
